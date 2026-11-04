@@ -1,0 +1,3 @@
+# No third-party dependencies required.
+# parse.py uses only Python 3.10+ standard library modules:
+#   re, unicodedata, typing

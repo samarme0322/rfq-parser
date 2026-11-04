@@ -1,0 +1,64 @@
+{"input": "bopp bags chahiye 40 hazaar, 65 gsm, Nagpur", "expected_output": {"category": "bopp_bag", "quantity": 40000, "unit": "pcs", "gsm": 65, "micron": null, "location": "Nagpur"}}
+{"input": "15K BOPP bags, 80 gsm, delivery to Pune", "expected_output": {"category": "bopp_bag", "quantity": 15000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Pune"}}
+{"input": "BOPP laminated bags 1 lakh pcs, 90 gsm, Delhi", "expected_output": {"category": "bopp_bag", "quantity": 100000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Delhi"}}
+{"input": "1,50,000 bopp bags required Ahmedabad", "expected_output": {"category": "bopp_bag", "quantity": 150000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ahmedabad"}}
+{"input": "50000 bopp bags, no location", "expected_output": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"input": "2.5 lakh BOPP bags, 70 gsm, Chennai", "expected_output": {"category": "bopp_bag", "quantity": 250000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Chennai"}}
+{"input": "BOPP bag 10000 pcs Surat 75 gsm", "expected_output": {"category": "bopp_bag", "quantity": 10000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Surat"}}
+{"input": "20K bopp bags chahiye Kolkata", "expected_output": {"category": "bopp_bag", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Kolkata"}}
+{"input": "20 hazaar cement bags bhejo Mumbai", "expected_output": {"category": "woven_sack", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Mumbai"}}
+{"input": "50000 woven sacks, Vadodara", "expected_output": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Vadodara"}}
+{"input": "AD Star bags 25000, 100 gsm, Jaipur", "expected_output": {"category": "woven_sack", "quantity": 25000, "unit": "pcs", "gsm": 100, "micron": null, "location": "Jaipur"}}
+{"input": "cement bags 1 lakh, Ludhiana", "expected_output": {"category": "woven_sack", "quantity": 100000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ludhiana"}}
+{"input": "PP woven bags 30 hazaar, Bangalore", "expected_output": {"category": "woven_sack", "quantity": 30000, "unit": "pcs", "gsm": null, "micron": null, "location": "Bangalore"}}
+{"input": "woven sack 75 gsm, 10000 nos, Hyderabad", "expected_output": {"category": "woven_sack", "quantity": 10000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Hyderabad"}}
+{"input": "5000 cement bags required", "expected_output": {"category": "woven_sack", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"input": "Need 5000 corrugated boxes", "expected_output": {"category": "corrugated_box", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"input": "10000 carton boxes, Pune", "expected_output": {"category": "corrugated_box", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Pune"}}
+{"input": "plain box chahiye 2 lakh pcs, Delhi", "expected_output": {"category": "corrugated_box", "quantity": 200000, "unit": "pcs", "gsm": null, "micron": null, "location": "Delhi"}}
+{"input": "corrugated carton 15K, Noida", "expected_output": {"category": "corrugated_box", "quantity": 15000, "unit": "pcs", "gsm": null, "micron": null, "location": "Noida"}}
+{"input": "3 ply corrugated box 50000 Ahmedabad", "expected_output": {"category": "corrugated_box", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ahmedabad"}}
+{"input": "duplex box 25000 pcs, Nashik", "expected_output": {"category": "corrugated_box", "quantity": 25000, "unit": "pcs", "gsm": null, "micron": null, "location": "Nashik"}}
+{"input": "1,00,000 carton boxes, Rajkot", "expected_output": {"category": "corrugated_box", "quantity": 100000, "unit": "pcs", "gsm": null, "micron": null, "location": "Rajkot"}}
+{"input": "500 pouches, 25 micron, Pune deliver karna hai", "expected_output": {"category": "pouch", "quantity": 500, "unit": "pcs", "gsm": null, "micron": 25, "location": "Pune"}}
+{"input": "stand up pouch 10000 nos, Bangalore", "expected_output": {"category": "pouch", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Bangalore"}}
+{"input": "zipper pouch 5000 pcs, 50 micron, Mumbai", "expected_output": {"category": "pouch", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": 50, "location": "Mumbai"}}
+{"input": "standup pouch 1 lakh, Hyderabad", "expected_output": {"category": "pouch", "quantity": 100000, "unit": "pcs", "gsm": null, "micron": null, "location": "Hyderabad"}}
+{"input": "zip pouch 15K, 30 micron, Surat", "expected_output": {"category": "pouch", "quantity": 15000, "unit": "pcs", "gsm": null, "micron": 30, "location": "Surat"}}
+{"input": "Need 2000 pouches for Ahmedabad", "expected_output": {"category": "pouch", "quantity": 2000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ahmedabad"}}
+{"input": "spout pouch 20000 pcs, 40 micron, Delhi", "expected_output": {"category": "pouch", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": 40, "location": "Delhi"}}
+{"input": "shrink film 2 MT Delhi", "expected_output": {"category": "film", "quantity": 2, "unit": "mt", "gsm": null, "micron": null, "location": "Delhi"}}
+{"input": "stretch film 500 kg, Mumbai", "expected_output": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": null, "location": "Mumbai"}}
+{"input": "wrapping film 1 MT, Pune", "expected_output": {"category": "film", "quantity": 1, "unit": "mt", "gsm": null, "micron": null, "location": "Pune"}}
+{"input": "shrink film 25 micron, 1000 kg, Bangalore", "expected_output": {"category": "film", "quantity": 1000, "unit": "kg", "gsm": null, "micron": 25, "location": "Bangalore"}}
+{"input": "PE film 3 MT, 50 micron, Chennai", "expected_output": {"category": "film", "quantity": 3, "unit": "mt", "gsm": null, "micron": 50, "location": "Chennai"}}
+{"input": "LLDPE film 100 kg, Coimbatore", "expected_output": {"category": "film", "quantity": 100, "unit": "kg", "gsm": null, "micron": null, "location": "Coimbatore"}}
+{"input": "cling film 50 rolls, Jaipur", "expected_output": {"category": "film", "quantity": 50, "unit": "rolls", "gsm": null, "micron": null, "location": "Jaipur"}}
+{"input": "mono carton 50000 pcs, 300 gsm, Noida", "expected_output": {"category": "mono_carton", "quantity": 50000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Noida"}}
+{"input": "folding carton 1 lakh nos, Pune", "expected_output": {"category": "mono_carton", "quantity": 100000, "unit": "pcs", "gsm": null, "micron": null, "location": "Pune"}}
+{"input": "printed carton 20K, Delhi", "expected_output": {"category": "mono_carton", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Delhi"}}
+{"input": "monocarton 300 gsm, 25000 pcs, Bangalore", "expected_output": {"category": "mono_carton", "quantity": 25000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Bangalore"}}
+{"input": "folding carton 10000 Hyderabad", "expected_output": {"category": "mono_carton", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Hyderabad"}}
+{"input": "mono carton 2.5 lakh pcs, Surat", "expected_output": {"category": "mono_carton", "quantity": 250000, "unit": "pcs", "gsm": null, "micron": null, "location": "Surat"}}
+{"input": "jumbo bag 1000 kg capacity, 500 pcs, Vadodara", "expected_output": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": null, "micron": null, "location": "Vadodara"}}
+{"input": "FIBC bags 200 nos, Ahmedabad", "expected_output": {"category": "fibc", "quantity": 200, "unit": "pcs", "gsm": null, "micron": null, "location": "Ahmedabad"}}
+{"input": "bulk bag 1500 pcs, 1000 kg capacity, Rajkot", "expected_output": {"category": "fibc", "quantity": 1500, "unit": "pcs", "gsm": null, "micron": null, "location": "Rajkot"}}
+{"input": "jumbo bags 1000 pieces, Nagpur", "expected_output": {"category": "fibc", "quantity": 1000, "unit": "pcs", "gsm": null, "micron": null, "location": "Nagpur"}}
+{"input": "bulk bags 500 nos, 90 gsm, Mumbai", "expected_output": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": 90, "micron": null, "location": "Mumbai"}}
+{"input": "FIBC 2000 kg capacity bags, 300 pcs, Ludhiana", "expected_output": {"category": "fibc", "quantity": 300, "unit": "pcs", "gsm": null, "micron": null, "location": "Ludhiana"}}
+{"input": "jumbo bag chahiye 100 pcs, Jaipur", "expected_output": {"category": "fibc", "quantity": 100, "unit": "pcs", "gsm": null, "micron": null, "location": "Jaipur"}}
+{"input": "Need packaging material", "expected_output": {"category": null, "quantity": null, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"input": "bopp bag 1,00,000 pcs Mumbai 60 gsm", "expected_output": {"category": "bopp_bag", "quantity": 100000, "unit": "pcs", "gsm": 60, "micron": null, "location": "Mumbai"}}
+{"input": "25 kg bags, 10000 pcs woven sack, Surat", "expected_output": {"category": "woven_sack", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Surat"}}
+{"input": "cement bag bhejo 50 hazar Ludhiana", "expected_output": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ludhiana"}}
+{"input": "Hamein 30000 corrugated carton boxes chahiye Pune mein", "expected_output": {"category": "corrugated_box", "quantity": 30000, "unit": "pcs", "gsm": null, "micron": null, "location": "Pune"}}
+{"input": "stretch film 3 MT, 50 micron thickness, delivery Kolkata", "expected_output": {"category": "film", "quantity": 3, "unit": "mt", "gsm": null, "micron": 50, "location": "Kolkata"}}
+{"input": "shrink film 500 kg chahiye, Ahmedabad", "expected_output": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": null, "location": "Ahmedabad"}}
+{"input": "Need BOPP bags, qty approx 40-50k, deliver to Pune", "expected_output": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Pune"}}
+{"input": "40-50 hazaar cement sacks, deliver to Springfield tomorrow", "expected_output": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Springfield"}}
+{"input": "GSM 65 BOPP bags 10000 pcs Nagpur", "expected_output": {"category": "bopp_bag", "quantity": 10000, "unit": "pcs", "gsm": 65, "micron": null, "location": "Nagpur"}}
+{"input": "BOPP bags micron: 25, qty 10000 pcs, deliver to Chhatrapati Sambhajinagar", "expected_output": {"category": "bopp_bag", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": 25, "location": "Chhatrapati Sambhajinagar"}}
+{"input": "AD-Star cement sacks 20k pcs, delivery to Navi Mumbai", "expected_output": {"category": "woven_sack", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Navi Mumbai"}}
+{"input": "BOPP bags 10000 pcs deliver to our warehouse near Nashik road", "expected_output": {"category": "bopp_bag", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Nashik"}}
+{"input": "BOPP bags 5000 pcs, deliver to Baramati", "expected_output": {"category": "bopp_bag", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": "Baramati"}}
+{"input": "Send 5000 corrugated boxes to New Delhi tomorrow", "expected_output": {"category": "corrugated_box", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": "New Delhi"}}
